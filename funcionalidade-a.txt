@@ -1,1 +1,0 @@
-﻿A funcionalidade-a é um teste para o comando git fetch.
